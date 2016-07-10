@@ -1,0 +1,7 @@
+{
+  "repos": [
+    { "repo": "appium/appium", "annotatedTagFormat": "^v[0-9.]+$", "deployTargetInterval": 14 },
+    { "repo": "saucelabs/jenkins-sauce-ondemand-plugin", "annotatedTagFormat": "^sauce-ondemand-[0-9.]+$", "deployTargetInterval": false },
+    { "repo": "saucelabs/ci-sauce", "annotatedTagFormat": "^ci-sauce-[0-9.]+$", "deployTargetInterval": false }
+  ]
+}
